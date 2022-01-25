@@ -20,7 +20,7 @@ or even like this:
 >
 >`Get: int fibonacci(int n) { return n <= 2 ? 1 : fibonacci(n - 1) + fibonacci(n - 2); }`
 >
->`fibonacci(6)`
+>`crepl> fibonacci(6)`
 >
 >`8`
 
