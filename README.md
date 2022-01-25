@@ -1,6 +1,8 @@
 # C-Repl
 
-It supports signed or unsigned integer(also short/long long) and float(also double) calculations currently.You can use it like this:
+C-Repl supports signed or unsigned integer(also short/long long) and float(also double) calculations currently.
+
+You can use it like this:
 
 >`crepl> 12 + 3`
 >
