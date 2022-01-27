@@ -2,7 +2,11 @@
 
 C-Repl supports signed or unsigned integer(also short/long long) and float(also double) calculations currently.
 
-You can use it like this:
+Run it like this:
+
+>`gcc crepl.c -o crepl -ldl && ./crepl`
+
+Use it like this:
 
 >`crepl> 12 + 3`
 >
